@@ -7,7 +7,11 @@ scraper that organizes data in a way that's pleasant to the eye. I'll be focusin
 in this first data scraping example.
 
 ## Installation
-Working with this scraper will require the use of Python 3 and Beautiful Soup 4 (bs4)
+Working with this scraper will require the use of Beautiful Soup 4 (bs4), selenium, requests
 
 `pip install bs4`
+
+`pip install requests`
+
+`pip install selenium`
 
