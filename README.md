@@ -8,5 +8,6 @@ in this first data scraping example.
 
 ## Installation
 Working with this scraper will require the use of Python 3 and Beautiful Soup 4 (bs4)
+
 `pip install bs4`
 
